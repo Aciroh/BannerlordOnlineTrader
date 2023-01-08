@@ -1,0 +1,11 @@
+F:\Repos\BannerlordOnlineTrader\Bannerlord Online Trader\Bannerlord Online Trader\bin\Debug\Bannerlord_Online_Trader.exe.config
+F:\Repos\BannerlordOnlineTrader\Bannerlord Online Trader\Bannerlord Online Trader\bin\Debug\Bannerlord_Online_Trader.exe
+F:\Repos\BannerlordOnlineTrader\Bannerlord Online Trader\Bannerlord Online Trader\bin\Debug\Bannerlord_Online_Trader.pdb
+F:\Repos\BannerlordOnlineTrader\Bannerlord Online Trader\Bannerlord Online Trader\obj\Debug\Bannerlord Online Trader.csproj.AssemblyReference.cache
+F:\Repos\BannerlordOnlineTrader\Bannerlord Online Trader\Bannerlord Online Trader\obj\Debug\Bannerlord Online Trader.csproj.SuggestedBindingRedirects.cache
+F:\Repos\BannerlordOnlineTrader\Bannerlord Online Trader\Bannerlord Online Trader\obj\Debug\Bannerlord_Online_Trader.Properties.Resources.resources
+F:\Repos\BannerlordOnlineTrader\Bannerlord Online Trader\Bannerlord Online Trader\obj\Debug\Bannerlord Online Trader.csproj.GenerateResource.cache
+F:\Repos\BannerlordOnlineTrader\Bannerlord Online Trader\Bannerlord Online Trader\obj\Debug\Bannerlord Online Trader.csproj.CoreCompileInputs.cache
+F:\Repos\BannerlordOnlineTrader\Bannerlord Online Trader\Bannerlord Online Trader\obj\Debug\Bannerlord_Online_Trader.exe
+F:\Repos\BannerlordOnlineTrader\Bannerlord Online Trader\Bannerlord Online Trader\obj\Debug\Bannerlord_Online_Trader.pdb
+F:\Repos\BannerlordOnlineTrader\Bannerlord Online Trader\Bannerlord Online Trader\obj\Debug\Bannerlord_Online_Trader.Form1.resources
